@@ -23,6 +23,10 @@ This web scraping project aims to collect valuable grocery data from the Real Ca
 
 Data was last scraped on: September 11, 2023
 
+## Environment
+
+- Anaconda was used as the development environment for this project.
+
 ## Usage
 
 To use the code provided in this repository:
