@@ -1,4 +1,4 @@
-# Real Canadian Superstore Web Scraping Project
+# Grocery Data Web Scraping Project
 
 ![Real Canadian Superstore Logo](https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Real_Canadian_Superstore_logo.svg/328px-Real_Canadian_Superstore_logo.svg.png?20180822154112)
 
@@ -16,6 +16,7 @@ This web scraping project aims to collect valuable grocery data from the Real Ca
 ## Repository Structure
 
 - `web_scraping.ipynb`: Jupyter Notebook containing the web scraping code.
+- `web_scraping.py`: Python source code file containing the web scraping code.
 - `datasets/`: Directory to store collected data.
 - `README.md`: Project documentation and instructions.
 
