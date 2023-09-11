@@ -19,6 +19,10 @@ This web scraping project aims to collect valuable grocery data from the Real Ca
 - `datasets/`: Directory to store collected data.
 - `README.md`: Project documentation and instructions.
 
+## Data Collection Date
+
+Data was last scraped on: September 11, 2023
+
 ## Usage
 
 To use the code provided in this repository:
