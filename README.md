@@ -17,6 +17,7 @@ This web scraping project aims to collect valuable grocery data from the Real Ca
 
 - `web_scraping.ipynb`: Jupyter Notebook containing the web scraping code.
 - `web_scraping.py`: Python source code file containing the web scraping code.
+- `grocery_EDA.ipynb` : Jupyter Notebook containing a simple EDA on the products dataset.
 - `datasets/`: Directory to store collected data.
 - `README.md`: Project documentation and instructions.
 
